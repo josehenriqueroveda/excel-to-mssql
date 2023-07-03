@@ -11,7 +11,7 @@ pip install excel2mssql
 To use `CsvToMssql`, you need to create an instance of the class and pass in the path to the CSV file, the name or IP address of the SQL Server, the name of the database to connect to, the name of the table to insert the data into, and the username and password to use for authentication.
 
 ```python
-from excel2mssql import CsvToMssql
+from excel2mssql.worker import CsvToMssql
 
 csv_path = "path/to/csv/file.csv"
 
@@ -42,7 +42,7 @@ csv_to_mssql.csv_to_mssql(columns=columns, sep=",", encoding="utf-8", action="re
 To use `ExcelToMssql`, you need to create an instance of the class and pass in the path to the Excel file, the name or IP address of the SQL Server, the name of the database to connect to, the name of the table to insert the data into, and the username and password to use for authentication.
 
 ```python
-from excel2mssql import ExcelToMssql
+from excel2mssql.worker import ExcelToMssql
 
 excel_path = "path/to/excel/file.xlsx"
 

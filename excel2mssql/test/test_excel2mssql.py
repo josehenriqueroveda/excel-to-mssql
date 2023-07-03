@@ -6,7 +6,7 @@ import pytest
 import pandas as pd
 from sqlalchemy.engine.base import Engine
 
-from excel2mssql.excel2mssql import CsvToMssql, ExcelToMssql
+from worker import CsvToMssql, ExcelToMssql
 from data.constants import SERVER, DATABASE, SCHEMA, TABLE_NAME, USERNAME, PASSWORD
 
 
