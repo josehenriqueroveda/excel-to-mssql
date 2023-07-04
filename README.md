@@ -1,4 +1,8 @@
 # excel-to-mssql
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+![GitHub top language](https://img.shields.io/github/languages/top/josehenriqueroveda/excel-to-mssql)
+![GitHub repo size](https://img.shields.io/github/repo-size/josehenriqueroveda/excel-to-mssql)
+
 `excel2mssql` is a Python library that provides functionality to read data from Excel and CSV files and insert it into a Microsoft SQL Server database.
 
 ## Installation
