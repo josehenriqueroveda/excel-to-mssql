@@ -2,7 +2,7 @@
 
 [![PyPI version fury.io](https://badge.fury.io/py/excel2mssql.svg)](https://pypi.python.org/pypi/excel2mssql/)
 [![PyPI download month](https://img.shields.io/pypi/dm/excel2mssql.svg)](https://pypi.python.org/pypi/excel2mssql/)
-![GitHub repo size](https://img.shields.io/github/repo-size/josehenriqueroveda/excel-to-mssql)
+[![Bandit](https://github.com/josehenriqueroveda/excel-to-mssql/actions/workflows/bandit.yml/badge.svg)](https://github.com/josehenriqueroveda/excel-to-mssql/actions/workflows/bandit.yml)
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/Naereen/badges.svg)](http://isitmaintained.com/project/excel-to-mssql/badges "Percentage of issues still open")
 
 `excel2mssql` is a Python library that provides functionality to read data from Excel and CSV files and insert it into a Microsoft SQL Server database.
