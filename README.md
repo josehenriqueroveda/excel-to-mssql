@@ -1,7 +1,7 @@
 # excel-to-mssql
 
 [![PyPI version fury.io](https://badge.fury.io/py/excel2mssql.svg)](https://pypi.python.org/pypi/excel2mssql/)
-[![PyPI download month](https://img.shields.io/pypi/dm/excel2mssql.svg)](https://pypi.python.org/pypi/excel2mssql/)
+[![Downloads](https://static.pepy.tech/badge/excel2mssql)](https://pepy.tech/project/excel2mssql)
 [![Bandit](https://github.com/josehenriqueroveda/excel-to-mssql/actions/workflows/bandit.yml/badge.svg)](https://github.com/josehenriqueroveda/excel-to-mssql/actions/workflows/bandit.yml)
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/Naereen/badges.svg)](http://isitmaintained.com/project/excel-to-mssql/badges "Percentage of issues still open")
 
